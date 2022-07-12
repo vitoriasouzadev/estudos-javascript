@@ -11,7 +11,7 @@ Repositório criado para organizar e guardar meus estudos de javascript e framew
 
 ### Cursos: 
 
-- [ ] [Curso de JavaScript e TypeScript do básico ao avançado 2022](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
+- [ ] [Curso de JavaScript e TypeScript do básico ao avançado 2022 - Em Andamento](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
 
 - [ ] [JavaScript - Curso em Vídeo](https://www.cursoemvideo.com/curso/javascript/)
 
